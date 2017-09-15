@@ -1,0 +1,3 @@
+xy像素大小: 90 90
+数据文档: data.xlsx
+输出目录: D:/hange_file/output1/

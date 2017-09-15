@@ -1,0 +1,551 @@
+143357  ERROR: : loadCfgFile false :java.io.FileNotFoundException: D:\MyEclipse Professional 2014\Workspaces\HangeUtil\cfg\jPortMap.cfg (ûß~0š„ï„)
+143422  INFO  : : ystem Read cfg file OK
+143422  INFO  : :  start Transfer......: LocalADD  127.0.0.1 :8899 --->DestHost 10.10.3.156 :80   (AllowClient) *.*.*.*
+143422  INFO  : : Transfer Server :  LocalADD  127.0.0.1 :8899 --->DestHost 10.10.3.156 :80   (AllowClient) *.*.*.* created OK
+144607  INFO  : : ystem Read cfg file OK
+144607  INFO  : :  start Transfer......: LocalADD  127.0.0.1 :8899 --->DestHost 10.10.3.156 :80   (AllowClient) *.*.*.*
+144607  INFO  : : Transfer Server :  LocalADD  127.0.0.1 :8899 --->DestHost 10.10.3.156 :80   (AllowClient) *.*.*.* created OK
+171617  INFO  : : start Transfer......:
+171617  INFO  : : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171629  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171629  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171629  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171629  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171640  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171640  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171640  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171640  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171640  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171640  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171641  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171653  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171659  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171659  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171659  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171659  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171701  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171710  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171719  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171723  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171729  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171729  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171729  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171729  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171800  INFO  : : start Transfer......:
+171802  INFO  : : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171815  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171815  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171815  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171815  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171821  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171854  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171859  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171859  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171859  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171859  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171919  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171923  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171929  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171929  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171929  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171929  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171950  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171953  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+171959  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171959  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+171959  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+171959  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept errorjava.lang.NullPointerException
+172015  INFO  : : start Transfer......:
+172015  INFO  : : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172029  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172029  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172029  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172029  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172042  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172042  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172042  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172042  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172042  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172042  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172042  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172042  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172042  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172042  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172042  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172053  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172059  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172059  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172059  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172059  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172100  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172100  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172102  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172119  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172123  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172129  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172129  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172129  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172129  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172150  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172153  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172159  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172159  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172159  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172159  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172211  INFO  : : start Transfer......:
+172211  INFO  : : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172213  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172213  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172213  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172213  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172214  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172214  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172214  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172214  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172229  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172229  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172229  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172229  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172230  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172234  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172248  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172248  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172248  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172248  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172248  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172248  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172251  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172259  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172259  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172259  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172259  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172309  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172320  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172321  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172324  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172329  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172329  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172329  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172329  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172330  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172330  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172331  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172331  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172331  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172331  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172331  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172331  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172331  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172332  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172332  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172332  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172332  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172350  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172351  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172357  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172357  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172357  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172359  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172359  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172359  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172359  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172403  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172403  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172403  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172413  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172413  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172413  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172413  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172421  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172421  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172421  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172421  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172429  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172429  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172429  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172429  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172450  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172450  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172450  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172451  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172459  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172459  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172459  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172459  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172510  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172510  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172510  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172510  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172510  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172519  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172520  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172529  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172529  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172529  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172529  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172550  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172550  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172559  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172559  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172559  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172559  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172620  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172621  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172629  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172629  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172629  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172629  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172650  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172651  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172659  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172659  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172659  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172659  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172720  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172721  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172729  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172729  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172729  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172729  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172749  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172750  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172759  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172759  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172759  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172759  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172820  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172821  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172829  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172829  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172829  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172829  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172849  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172850  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172859  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172859  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172859  WARN: :  ransfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+  Incoming:/127.0.0.1
+172859  ERROR: :  Transfer Server : permit 127.0.0.1 8080 -> 192.168.71.140 8680
+ accept error java.lang.NullPointerException
+172920  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+172921  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173043  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173050  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173112  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173112  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173112  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173113  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173116  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173121  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173124  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173124  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173127  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173133  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173150  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173151  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173205  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173216  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173216  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173216  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173221  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173223  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173229  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173238  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173248  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173408  WARN: : Disconnect :permit 127.0.0.1 8080 -> 192.168.71.140 8680
+
+173526  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+173623  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+175848  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+175947  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
