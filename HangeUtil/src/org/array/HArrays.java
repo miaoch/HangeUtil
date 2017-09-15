@@ -41,7 +41,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((boolean[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -58,7 +58,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((byte[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -75,7 +75,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((char[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -92,7 +92,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((short[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -109,7 +109,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((int[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -126,7 +126,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((long[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -143,7 +143,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((float[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
@@ -160,7 +160,7 @@ public class HArrays {
 		sb.append("[");
 		for (Object arr : array) {
 			if (arr.getClass().isArray()) {
-				//基本数组下，不可能存放其他类型的数组
+				//基本类型下，不可能存放其他类型的数组
 				sb.append(toString((double[]) arr) + ", ");
 			} else {
 				sb.append(arr + ", ");
