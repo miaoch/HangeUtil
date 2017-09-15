@@ -19,16 +19,6 @@ public class TestThread implements Runnable {
 		for (int i = 0; i < 50; i++) {
 			exec.execute(new TestThread());
 		}
-		/*Thread.setDefaultUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
-			@Override
-			public void uncaughtException(Thread t, Throwable e) {
-				System.out.println(t + "发生线程异常啦! 异常信息:" + e.getMessage());
-			}
-		});
-		ExecutorService exec = Executors.newCachedThreadPool();
-		for (int i = 0; i < 50; i++) {
-			exec.execute(new TestThread());
-		}*/
 	}
 }
 class DealFactory implements ThreadFactory {
