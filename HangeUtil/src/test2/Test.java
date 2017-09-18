@@ -1,45 +1,26 @@
 package test2;
 
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.util.Arrays;
-
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-
-import org.array.HArrays;
-
-public class Test extends JFrame {
-	public static void main(String args[]) throws Exception {
-		int[][] i = new int[][]{{1,2,},{3,4,},{5,6,},};
-		Object[][] i2 = new Object[][]{new String[]{"1","2",},
-				new Integer[]{3,4,},
-				new Float[]{5.5f,6.6f,},
-				new Integer[][]{new Integer[]{3,4,},new Integer[]{5,6,}},};
-		int[][][] i3 = new int[][][]{
-				{{1,-1},{2,-2},},{{3,-3},{4,-4},},{{5,-5},{6,-6},},
-				};
-		//String[][] s = new String[][]{{"1","2",},{"3","4",},{"5","6",},};
-		System.out.println(HArrays.toString(i));
-		System.out.println(HArrays.toString(i3));
-		//System.out.println(HArrays.toString(i2));
+public class Test{
+	public static void main(String[] args){
+		B b=new A();
+		B b2=new B();
+		A a2=new A();
+		f(b);
+		f(b2);
+		f(a2);
 	}
-	
-	public static<T> String myPrint(T[] array) {
-		StringBuilder sb = new StringBuilder();
-		sb.append("[");
-		for (Object arr : array) {
-			System.out.println(arr.getClass());
-			if (arr.getClass().isArray()) {
-				sb.append(myPrint((T[]) arr) + ", ");
-			} else {
-				sb.append(arr.toString() + ", ");
-			}
-		}
-		if (sb.length() > 2) {
-			sb.delete(sb.length() - 2, sb.length());
-		}
-		return sb.append("]").toString();
+	//这边的参数可以是父类，可以接受子类和父类
+	public static void  f(B b){
+		System.out.println("父类");
 	}
+	//这边的参数是子类
+	public static void  f( A a){
+		System.out.println("子类");
+	}
+
+
+}
+class A extends B{
+}
+class B {
 }

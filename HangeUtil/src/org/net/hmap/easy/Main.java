@@ -14,8 +14,8 @@ public class Main {
 		Route route = new Route("127.0.0.1", 8888, "192.168.71.140", 8680);
 		InetAddress myAD = Inet4Address.getByName("127.0.0.1");
 		ServerSocket service = new ServerSocket(route.getLocalPort(), 4, myAD);
-			Socket sock = service.accept();
-			Thread t = new Transfer(sock, route);
-			t.join();
+		Socket sock = service.accept();
+		Thread t = new Transfer(sock, route);
+		t.join();
 	}
 }

@@ -3,7 +3,9 @@ package org.net.hmap;
 import java.io.InputStream;
 import java.io.InterruptedIOException;
 import java.io.OutputStream;
+import java.io.PipedInputStream;
 import java.net.Socket;
+import java.nio.ByteBuffer;
 
 import org.netjava.jportmap.SysLog;
 
@@ -32,6 +34,7 @@ public class Transfer extends Thread {
 			outbound.setSoTimeout(TIMEOUT);
 			pipe(socket.getInputStream(), outbound.getInputStream(),
 					outbound.getOutputStream(), socket.getOutputStream());
+			//pipe(socket, outbound);
 		} catch (Exception e) {
 			SysLog.severe(" transfer error:" + route.toString() + " :" + e);
 		} finally {
@@ -40,7 +43,7 @@ public class Transfer extends Thread {
 			closeSocket(socket);
 		}
 	}
-	
+
 	/**
 	 * 传输的实现方法
 	 * 从is0读取写入到os0，将os1返回的写入到is1
