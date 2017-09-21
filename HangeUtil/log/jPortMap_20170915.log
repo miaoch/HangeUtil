@@ -1,0 +1,54 @@
+171341  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+171341  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+171357  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+171357  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+171555  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+171555  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+171641  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+171641  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+172036  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+172036  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+172048  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+172048  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+172134  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.lang.NullPointerException
+172134  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+172848  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.nio.channels.NotYetConnectedException
+172848  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+173501  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.nio.channels.ClosedChannelException
+173501  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+173621  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+174341  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.net.SocketTimeoutException: Read timed out
+174341  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+174423  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.net.SocketTimeoutException: Read timed out
+174423  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+174448  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.net.SocketTimeoutException: Read timed out
+174448  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+
+174510  WARN: :  Method pipepermit 127.0.0.1 8888 -> 192.168.71.140 8680
+ error:java.net.SocketTimeoutException: Read timed out
+174510  WARN: : Disconnect :permit 127.0.0.1 8888 -> 192.168.71.140 8680
+

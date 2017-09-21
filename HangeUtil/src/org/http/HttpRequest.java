@@ -124,14 +124,14 @@ public class HttpRequest {
         return result;
     }  
     
-    public static void main(String args[]) {
+    public static void main(String args[]) throws IOException {
     	//发送 GET 请求
-    	new Scanner(System.in).next();
+    	System.in.read();
         String s=HttpRequest.sendGet("http://www.baidu.com", "key=123&v=456");
         System.out.println(s);
         //发送 POST 请求
         String sr=HttpRequest.sendPost("http://localhost:6144/Home/RequestPostString", "key=123&v=456");
         System.out.println(sr);
-        new Scanner(System.in).next();
+        
     }
 }

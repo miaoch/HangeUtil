@@ -6,6 +6,8 @@ import java.io.OutputStream;
 import java.io.PipedInputStream;
 import java.net.Socket;
 import java.nio.ByteBuffer;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
 import org.netjava.jportmap.SysLog;
 
