@@ -1,23 +1,30 @@
-public class TestMain {//继承
+import java.util.Arrays;
+
+public class TestMain {
 
 	public static void main(String[] args) {
-		new Test();
+		for (int i = 1; i < 1000000; i++) {
+			if (max_min(string2intArray(String.valueOf(i))) == i) {
+				System.out.println(i);
+			}
+		}
 	}
-}
-class Test extends Father{
-	int i = 1;
-	Test() {
-		//隐藏super(); 第一步
-		System.out.println("第三步构造器初始化：i=" + i);
-		i = 3;
+	//字符串转int[]数组
+	public static int[] string2intArray(String numstr) {
+		int[] result = new int[numstr.length()];
+		for (int i=0; i<numstr.length(); i++) {
+			result[i] = numstr.charAt(i) - '0';
+		}
+		return result;
 	}
-	{
-		System.out.println("第二步字段处初始化：i=" + i);
-		i = 2;
-	}
-}
-class Father {
-	Father () {
-		System.out.println("father!");
+	//主要的判断方法
+	public static int max_min(int[] sz) {
+		int max = 0, min = 0;
+		Arrays.sort(sz);
+		for (int i=0; i<sz.length; i++) {
+			min = min * 10 + sz[i];
+			max = max * 10 + sz[sz.length - i - 1];
+		}
+		return max - min;
 	}
 }

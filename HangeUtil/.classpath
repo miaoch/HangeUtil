@@ -61,5 +61,7 @@
 	<classpathentry kind="lib" path="E:/download/jar/docx/xalan-2.7.1.jar"/>
 	<classpathentry kind="lib" path="E:/download/jar/docx/xhtmlrenderer-1.0.0.jar"/>
 	<classpathentry kind="lib" path="E:/download/jar/cglib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/download/jar/oracle/oracle11g 11.2.0.1.0 JDBC_ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/download/jar/oracle/oracle11g 11.2.0.1.0 JDBC_orai18n.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
