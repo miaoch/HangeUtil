@@ -1,5 +1,12 @@
 package test2;
 
+import java.awt.Rectangle;
+class A {
+	String a;
+}
+class B extends A {
+	String b = super.a;
+}
 class Emp {
 	private int empno ;
 	private String ename ;
@@ -42,7 +49,5 @@ class Emp {
 				"job="+ job+"\n"+
 				"sal="+ sal+"\n"+
 				"comm="+ comm ;
-
-
 	}
 }
