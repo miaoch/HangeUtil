@@ -18,7 +18,7 @@ public class BufferInputFile {
 		StringBuilder result = new StringBuilder();
 		String temp;
 		while ((temp = in.readLine()) != null) {
-			result.append(temp + "\n");
+			result.append(temp);
 		}
 		in.close();
 		return result.toString();

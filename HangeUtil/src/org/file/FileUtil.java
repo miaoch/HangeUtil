@@ -2,6 +2,7 @@ package org.file;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -14,6 +15,10 @@ import java.util.List;
 import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.URI;
 import org.apache.commons.httpclient.methods.GetMethod;
+import org.stream.BufferInputFile;
+
+import com.lowagie.text.pdf.codec.Base64;
+import com.sun.xml.internal.messaging.saaj.util.ByteInputStream;
 
 /**
  * 文件操作工具类
@@ -221,6 +226,13 @@ public class FileUtil {
 			}  
 		}  
 	}
-	public static void main(String args[]) throws Exception {
+	public static void main(String args[]) throws FileNotFoundException, IOException {
+		System.out.println("yes");
+		String ss = BufferInputFile.read(new File("D://test.txt"));
+		System.out.println(ss);
+		byte[] source = Base64.decode(ss);
+		System.out.println(source);
+		transfer(new ByteArrayInputStream(source), new FileOutputStream("D://1"));
+		System.out.println("yes");
 	}
 }

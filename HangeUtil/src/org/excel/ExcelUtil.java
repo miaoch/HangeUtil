@@ -298,15 +298,23 @@ public class ExcelUtil {
 	}
 
 	public static void main(String args[]) throws IOException {
-		List data = new ArrayList<>();
+/*		List data = new ArrayList<>();
 		for (int i=0; i<10; i++) {
 			data.add(new Test());
 		}
-		ExcelUtil.writeFile(data, "D:\\hange_file\\test.xlsx");
-		ExcelUtil eu = new ExcelUtil("D:\\hange_file\\test.xlsx");
-		eu.writeRowData(20, new String[]{"込込込", "最最"});
-		eu.write();
+		ExcelUtil.writeFile(data, "D:\\hange_file\\test.xlsx");*/
+		ExcelUtil eu = new ExcelUtil("C:\\Users\\Administrator\\Desktop\\Book1.xlsx");
+		/*eu.writeRowData(20, new String[]{"込込込", "最最"});
+		eu.write();*/
 		System.out.println(Arrays.toString(eu.readRowData(0)));
+		String[][] xx = eu.readRowData();
+		System.out.println(xx.length);
+		String s = "update t_rec set c_limittime = c_limittime+4*24*3600000 where id in (\r\n";
+		for (String[] x:xx) {
+			s += "'" + x[1].substring(0, x[1].length() - 1) + "',";
+		}
+		s += ")";
+		System.out.println(s);
 	}
 
 }
